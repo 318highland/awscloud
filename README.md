@@ -19,4 +19,5 @@ These are the setup files for AWS Cloud Web Servers.  I need to read the content
 - [ ] DevOps
 - [ ] 
 
-![some chars] (https://avatars.githubusercontent.com/u/132239870?v=4)
+![some chars][1]
+[1](https://avatars.githubusercontent.com/u/132239870?v=4)
