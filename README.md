@@ -5,5 +5,5 @@ These are the setup files for AWS Cloud Web Servers.  I need to read the content
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
-
-https://avatars.githubusercontent.com/u/132239870?v=4
+![some chars] (
+https://avatars.githubusercontent.com/u/132239870?v=4)
